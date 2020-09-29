@@ -11,4 +11,4 @@ Example of neural networks implementation to detect the kindness of sentences:
 3- Training and evaluation with F1-score
 
 
-You can find the whole project description here: https://anthonypiquet.wordpress.com/2020/02/16/nlp/
+You can find the whole project description here: https://apiquet.com/2020/02/16/nlp/
